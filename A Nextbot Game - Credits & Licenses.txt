@@ -1,0 +1,7 @@
+CREDITS
+
+This project uses the following 3D models under Creative Commons Attribution 4.0 International License:
+
+- Crucifix - "CRISTO CRUCIFICADO DE SAN MIGUEL (SEGOVIA)" by Alcázar de Segovia
+  Source: https://skfb.ly/oLSpI
+  License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
