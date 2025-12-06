@@ -5,3 +5,7 @@ This project uses the following 3D models under Creative Commons Attribution 4.0
 - Crucifix - "CRISTO CRUCIFICADO DE SAN MIGUEL (SEGOVIA)" by Alcázar de Segovia
   Source: https://skfb.ly/oLSpI
   License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+- Jump pad - ""V2701-JumpPad [2018 Spring #ue4jam]" by Zaxel 
+  Source : https://skfb.ly/6znqE
+  License : (https://creativecommons.org/licenses/by/4.0/)
